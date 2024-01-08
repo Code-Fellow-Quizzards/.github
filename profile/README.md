@@ -16,7 +16,7 @@
 ## Domain Modeling
 > Our domain modeling can be found in our invisionapp sketch located here:
 [Domain Modeling](https://projects.invisionapp.com/freehand/document/QUoxhvzef)
-![Domain Modeling Image](proj/img/domain-modeling.png)
+![Domain Modeling Image](/profile/proj/img/domain-modeling.png)
 
 ## Lighthouse
 ![Lighthouse](proj/img/lighthouse.png)
