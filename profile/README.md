@@ -10,7 +10,6 @@
 
 ## Wireframe
 ![Quizzard Wizard Project Wireframe](proj/img/wireframe.png)
-
 ## User Stories
 [GitHub Project](https://github.com/orgs/Code-Fellow-Quizzards/projects/1/views/1)
 
