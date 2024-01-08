@@ -9,7 +9,7 @@
 > The ***Quizzard Wizard*** is a fun and engaging web application that challenges users with a wide range of exciting quizzes on various topics. Players can test their knowledge, compete with friends, and unlock achievements as they progress through levels. With a user-friendly interface and instant feedback, the quiz game provides an enjoyable way to learn and expand one's knowledge while having a great time.
 
 ## Wireframe
-![Quizzard Wizard Project Wireframe](proj/img/wireframe.png)
+![Quizzard Wizard Project Wireframe](/profile/proj/img/wireframe.png)
 ## User Stories
 [GitHub Project](https://github.com/orgs/Code-Fellow-Quizzards/projects/1/views/1)
 
@@ -19,7 +19,7 @@
 ![Domain Modeling Image](/profile/proj/img/domain-modeling.png)
 
 ## Lighthouse
-![Lighthouse](proj/img/lighthouse.png)
+![Lighthouse](/profile/proj/img/lighthouse.png)
 
 
 ### References
